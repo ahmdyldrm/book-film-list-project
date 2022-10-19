@@ -1,0 +1,19 @@
+{
+  "name": "book-film-list-project",
+  "version": "1.0.0",
+  "description": "Bu bir çalışma projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "book",
+    "film"
+  ],
+  "author": "Ahmet Yıldırım",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmdyldrm/book-film-list-project.git"
+  }
+}
